@@ -1,9 +1,10 @@
 # JSON::Schematized
 
+Object builder based on JSON-Schema.
+
 Code badges:
 [![Build Status](https://travis-ci.org/kawamanza/json-schematized.svg)](https://travis-ci.org/kawamanza/json-schematized)
-
-Object builder based on JSON-Schema.
+[![Dependency Status](https://gemnasium.com/kawamanza/json-schematized.svg)](https://gemnasium.com/kawamanza/json-schematized)
 
 ## Sample usage
 
