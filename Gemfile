@@ -13,3 +13,6 @@ gem 'activesupport', '>= 3.2.0'
 # RUBY_VERSION ~> "1.8.0"
 # gem "ruby-debug"
 # gem "linecache", "0.43"
+
+gem "codeclimate-test-reporter", group: :test, require: nil
+

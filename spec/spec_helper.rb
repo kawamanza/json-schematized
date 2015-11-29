@@ -2,6 +2,9 @@
 gemlib = File.expand_path("../../lib", __FILE__)
 $:.unshift(gemlib) unless $:.include?(gemlib)
 
+require "codeclimate-test-reporter"
+CodeClimate::TestReporter.start
+
 require "json-schematized"
 require "json"
 require "yaml"

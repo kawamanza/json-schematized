@@ -16,3 +16,6 @@ rvm:
 notifications:
   email:
     - manzan@gmail.com
+addons:
+  code_climate:
+    repo_token: 565abfb54308a60061015d70
