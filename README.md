@@ -6,6 +6,9 @@ Code badges:
 [![Build Status](https://travis-ci.org/kawamanza/json-schematized.svg)](https://travis-ci.org/kawamanza/json-schematized)
 [![Dependency Status](https://gemnasium.com/kawamanza/json-schematized.svg)](https://gemnasium.com/kawamanza/json-schematized)
 
+Project badges:
+[![Gem Version](https://badge.fury.io/rb/json-schematized.svg)](https://badge.fury.io/rb/json-schematized)
+
 ## Sample usage
 
 Consider the following JSON-Schema (escaped as YAML, for better viewing):
