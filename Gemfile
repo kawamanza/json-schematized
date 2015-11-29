@@ -5,7 +5,7 @@ gemspec
 gem 'virtus', :git => 'https://github.com/solnic/virtus'
 
 # Gem activesupport ~> 4.0.0 requires Ruby ~> 1.9.3
-gem 'activesupport', '~> 3.2.0'
+gem 'activesupport', '>= 3.2.0'
 
 # RUBY_VERSION ~> "1.9.0"
 # gem "debugger"
