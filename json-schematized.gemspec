@@ -17,5 +17,5 @@ Gem::Specification.new do |s|
   s.add_runtime_dependency "virtus"
 
   s.add_development_dependency "json", "~> 1.4"
-  s.add_development_dependency "rspec", "~> 2.14.8"
+  s.add_development_dependency "rspec", "~> 2.14"
 end
