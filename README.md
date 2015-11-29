@@ -1,6 +1,7 @@
 # JSON::Schematized
 
-[![Build Status](https://travis-ci.org/abril/json-schematized.png?branch=master)](https://travis-ci.org/abril/json-schematized)
+Code badges:
+[![Build Status](https://travis-ci.org/kawamanza/json-schematized.svg)](https://travis-ci.org/kawamanza/json-schematized)
 
 Object builder based on JSON-Schema.
 
