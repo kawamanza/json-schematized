@@ -18,4 +18,4 @@ notifications:
     - manzan@gmail.com
 addons:
   code_climate:
-    repo_token: 565abfb54308a60061015d70
+    repo_token: f8618d1de7dabe41776f844065242c2d7ade1d5c95ff3498886b4640a6bbaa01
