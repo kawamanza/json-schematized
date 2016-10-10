@@ -10,6 +10,7 @@ Code badges:
 Project badges:  
 [![Gem Version](https://badge.fury.io/rb/json-schematized.svg)](https://badge.fury.io/rb/json-schematized)
 [![Code Climate](https://codeclimate.com/github/kawamanza/json-schematized/badges/gpa.svg)](https://codeclimate.com/github/kawamanza/json-schematized)
+[![security](https://hakiri.io/github/kawamanza/json-schematized/master.svg)](https://hakiri.io/github/kawamanza/json-schematized/master)
 
 ## Sample usage
 
